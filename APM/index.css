@@ -1,0 +1,33 @@
+body{
+  background:#E0E0EO;
+  }
+  .card.login{
+  width:450px;
+  height:400px;
+  position:relative;
+  top:30px;
+  }
+  .card.navcard{
+	  margin:0;
+	  background-color:#26a69a;
+	  height:60px;
+  }
+  .card.navcard.card-content{
+	  color:#fff;
+  }
+  #titletext{
+	  color:#fff;
+	  font-family: 'Josefin Sans', sans-serif;
+	  font-size:20px;
+	  position:relative;
+	  float:left;
+	  top:-8px;
+  }
+  #logintext{
+	   font-family: 'Josefin Sans', sans-serif;
+	  font-size:30px;
+	  margin:0;
+	  margin-top:25px;
+  }
+  
+  
